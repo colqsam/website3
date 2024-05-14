@@ -67,7 +67,7 @@
   --tp-common-blue: #2285D0;
   --tp-common-blue-2: #165585;
   --tp-common-blue-3: #0A2463;
-  --tp-common-blue-4: #600EE4;
+  --tp-common-blue-4: #4ACF50;
   --tp-common-red: #F8333C;
   --tp-heading-primary: #000229;
   --tp-grey-1: #7987a9;
@@ -2369,7 +2369,7 @@ input[type=color] {
   right: 0%;
 }
 .about-banner {
-  background-color: #600EE4;
+  background-color: #165585;
   height: 540px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -2445,7 +2445,7 @@ input[type=color] {
   font-size: 110px;
   line-height: 1.2;
   letter-spacing: -0.02em;
-  color: #600EE4;
+  color: #165585;
   margin-left: 100px;
   margin-top: -140px;
 }
