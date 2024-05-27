@@ -1,0 +1,3 @@
+[build]
+  publish = "WEB3/themeforest-UWwnCQmK-softec-software-technology-html-template/softec"
+  command = "npm install && npm run build"
